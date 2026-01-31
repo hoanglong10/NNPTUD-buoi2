@@ -1,0 +1,13 @@
+{
+  "name": "nnptud-buoi2",
+  "version": "1.0.0",
+  "description": "CRUD Posts and Comments with soft delete",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
